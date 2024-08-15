@@ -54,7 +54,7 @@ The `script.js` file contains the logic for the calculator's functionality:
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/your-repo-name.git
+git clone https://github.com/PradeepTiwarii/Calculator.git
 ```
 
 ### 2. Open the Project:
